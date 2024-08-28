@@ -22,6 +22,8 @@ In this repository, you will find example Colab notebooks covering the following
 ## Getting Started
 To get started with the notebooks, simply open them in Google Colab using the provided links. Each notebook contains detailed explanations and code examples.
 
+For your own assignments, please use the template.ipynb notebook in the templates/ subrepo to get started.
+
 ## Prerequisites
 These examples are created to be run in Google Colab but can be modified for local development. The necessary python libraries are specified in each notebook.
 
